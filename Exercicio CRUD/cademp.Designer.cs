@@ -114,8 +114,8 @@
             // txtPesquisa
             // 
             this.txtPesquisa.Name = "txtPesquisa";
-            this.txtPesquisa.Size = new System.Drawing.Size(57, 22);
-            this.txtPesquisa.Text = "Pesquisar";
+            this.txtPesquisa.Size = new System.Drawing.Size(42, 22);
+            this.txtPesquisa.Text = "Buscar";
             // 
             // boxPesquisa
             // 
